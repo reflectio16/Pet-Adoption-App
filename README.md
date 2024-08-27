@@ -1,3 +1,9 @@
+## Project Objective
+* One of the Codecademy React projects I built to practice **front-end routing** with **React Router.**
+* The main focus was to practice how to navigate the web site internal links for a better user experience.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
