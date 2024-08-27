@@ -1,6 +1,6 @@
 ## Project Objective
 * One of the Codecademy React projects I built to practice **front-end routing** with **React Router.**
-* The main focus was to practice how to navigate the web site internal links for a better user experience.
+* The primary goal was to practice navigating the web app's internal links to improve the user experience.
 
 
 
